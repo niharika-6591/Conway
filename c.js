@@ -1,6 +1,5 @@
-var rows = 33;
-var cols = 66;
-
+var rows = 37;
+var cols = 25;
 var playing = false;
 
 var grid = new Array(rows);
